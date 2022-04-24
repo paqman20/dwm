@@ -1,0 +1,15 @@
+* Suckless
+
+* Packages to install 
+** Wallpaper
+
+#+begin_src shell
+  sudo pacman -S feh
+#+end_src
+
+** Terminal
+
+#+begin_src shell
+  sudo pacman -S alacritty
+#+end_src
+
