@@ -1,3 +1,0 @@
-* Troubles
-** Wallpaper
-I needed to set ~/.fehbg before my exec dwm in my xinitrc file
